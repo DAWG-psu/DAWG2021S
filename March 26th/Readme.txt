@@ -10,7 +10,7 @@ SparCC paper - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5089131/
 CoNet paper - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5089131/
 
 Network analysis - https://www.nature.com/articles/ismej2015235
-
+Network analysis tutorials - http://psbweb05.psb.ugent.be/conet/microbialnetworks/conet_new.php
 
 wonderful presentation slides on network analysis - 
 https://www.soil-metagenomics.org/fileadmin/congress/media/sm2019/pdf/SM2019_friday_microbial_networks_in_depths.pdf
