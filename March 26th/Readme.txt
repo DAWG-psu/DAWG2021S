@@ -6,5 +6,8 @@ R compiler tool - https://thecoatlessprofessor.com/programming/cpp/r-compiler-to
 SparCC paper - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5089131/
 CoNet paper - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5089131/
 
+Network analysis - https://www.nature.com/articles/ismej2015235
+
+
 wonderful presentation slides on network analysis - 
 https://www.soil-metagenomics.org/fileadmin/congress/media/sm2019/pdf/SM2019_friday_microbial_networks_in_depths.pdf
