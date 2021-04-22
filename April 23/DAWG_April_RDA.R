@@ -7,7 +7,7 @@ library(vegan)
 
 # How many samples do you have? How many variables do you have?
 # if number of variables > number of samples, RDA/CCA are not appropriate
-
+ps <- readRDS("ps.bac.rds")
 ps.bac <- subset_taxa(ps, Kingdom == "Bacteria")
 
 ps.rel  = transform_sample_counts(ps.bac, function(x) x / sum(x) )
@@ -120,7 +120,7 @@ corrplot(M, type = "upper", p.mat = P$p, method = "number", tl.col = "black", in
 corrplot(cor(chemistry[, 1:29])[27:29, 1:29, drop=FALSE], cl.pos='n', method = "number", number.cex = 0.6, tl.col = "black")
 
 # We can do the same thing with our fungal dataset ####
-ps.fun <- readRDS("ps_fun.rds")
+ps.fun <- readRDS("ps.fun.rds")
 
 ps.fun.rel  = transform_sample_counts(ps.fun, function(x) x / sum(x) )
 
