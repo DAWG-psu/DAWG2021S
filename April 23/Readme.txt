@@ -12,4 +12,8 @@ https://www.youtube.com/watch?v=wHSECEI2tnQ
 http://ordination.okstate.edu/index.html
 https://mb3is.megx.net/gustame/constrained-analyses/rda
 
+https://rdrr.io/bioc/ALDEx2/f/inst/doc/ALDEx2_vignette.pdf
+https://joey711.github.io/phyloseq-extensions/DESeq2.html
+
+
 We also going to give you some time for preparing this files in the beginning of the workshop.
