@@ -17,3 +17,8 @@ https://joey711.github.io/phyloseq-extensions/DESeq2.html
 
 
 We also going to give you some time for preparing this files in the beginning of the workshop.
+
+
+DAWG_April_descriptive.R (Ray)
+DAWG_April_RDA.R (Mara)
+DAWG_April_DA.R  (Taejung)
